@@ -1,0 +1,11 @@
+file_format: "1"
+id: keeb
+name: Keeb
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - keeb_left
+  - keeb_right
