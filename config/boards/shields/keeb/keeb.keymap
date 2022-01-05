@@ -31,7 +31,7 @@
                         key-positions = <36 23>;
                         bindings = <&kp RIGHT>;
                 };
-        }
+        };
         keymap {
                 compatible = "zmk,keymap";
 
